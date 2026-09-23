@@ -71,8 +71,6 @@ End-to-end quantitative power-trading project built on 58,000+ half-hourly obser
 
 ---
 
----
-
 ## 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabarika%20Karama-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fabarika-karama-ab1510195/)
