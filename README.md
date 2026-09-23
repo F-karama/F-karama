@@ -39,6 +39,38 @@ End-to-end quantitative power-trading project built on 58,000+ half-hourly obser
 📊 Market Risk : VaR, Expected Shortfall, stress testing and volatility modelling  
 📈 Quantitative Finance : derivatives pricing, Monte Carlo and hedging  
 🤖 Data Science : machine learning, time series and explainable AI  
+
+---
+
+## 🧠 Technical Toolkit
+
+### 📊 Quantitative & Data
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,postgres" />
+</p>
+
+**Python · R · SQL · VBA · Power BI**
+
+### 🤖 Data Science & Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+**pandas · NumPy · scikit-learn · statsmodels · XGBoost · TensorFlow/Keras · SHAP**
+
+### 📈 Quantitative Finance & Risk
+
+**Time Series · GARCH · Monte Carlo · VaR/ES · Derivatives Pricing · Backtesting**
+
+### 🛠️ Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
+
+**Git · GitHub · Jupyter · VS Code · Linux**
+
+---
+
 ---
 
 ## 🌐 Connect with me:
@@ -47,24 +79,5 @@ End-to-end quantitative power-trading project built on 58,000+ half-hourly obser
 [![GitHub](https://img.shields.io/badge/GitHub-F--karama-black?logo=github)](https://github.com/F-karama)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:ton.email@exemple.com)
 
-
----
-
-## 🧠 Technical Toolkit
-
-### Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,java,cpp,linux,vscode,jupyter" />
-</p>
-
-### AI & Data Science
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,fastapi" />
-</p>
-
-### Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-</p>
 ---
 
