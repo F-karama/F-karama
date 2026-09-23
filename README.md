@@ -1,21 +1,44 @@
 <h1 align="center">Hi 👋 I'm Fabarika Karama</h1>
 
 ---
-## 💫 About Me:  
-🎓 I'm currently pursuing a **Master 2 in Applied Mathematics and Statistics** at the **University of Bordeaux**, specializing in **Artificial Intelligence and Data Science**.
-🚀 Passionate about **coding**, **machine learning**, **deep learning**, **generative AI**, and **real-world data science applications**.  
-I thrive on building **scalable ML systems** and exploring how **AI can drive impact in finance, tech, and beyond**.
+## About Me
+
+🎓 Final-year Master's student in **Applied Mathematics & Statistics** at the **University of Bordeaux**, specializing in **Financial Risk Engineering & Data Science**.
+
+⚡ Interested in **energy & commodity markets, quantitative finance and market risk**, with a particular focus on applying statistical modelling and machine learning to trading and risk-management problems.
+
+📊 My work spans **renewable-power forecasting and trading analytics, volatility modelling, VaR/Expected Shortfall, derivatives pricing and credit risk**.
+
+🐍 I mainly work with **Python, R and SQL**, combining quantitative modelling with practical data analysis and model validation.
 
 ---
 
-## 🚀 What I'm Up To
+## 🚀 Featured Project
 
-- 📚 Completing my Master 2 in Applied Mathematics & Statistics at the University of Bordeaux, with a focus on Artificial Intelligence and Data Science  
-- 🧠 Deep-diving into Generative AI, NLP, and Graph Machine Learning through Stanford and DeepLearning.AI specializations  
-- 🛠️ Building portfolio projects that showcase RAG pipelines, LangChain orchestration, and real-world ML impact  
-- 🎓 Preparing for the Oracle Cloud Infrastructure Generative AI Professional certification (1Z0-1127-25)  
-- 🌍 Actively applying to AI/ML internships and graduate programs in North America, Switzerland, and Germany  
-- 📈 Optimizing my CV and LinkedIn presence for recruiter visibility and ATS compatibility  
+### ⚡ Renewable Energy Forecasting & Trading Analytics
+
+**Python · XGBoost · Neural Networks · Probabilistic Forecasting · Power Markets · Risk Analytics**
+
+End-to-end quantitative power-trading project built on 58,000+ half-hourly observations, connecting:
+
+**Data → Forecast → Uncertainty → Trading Decision → PnL/Risk → Explainability**
+
+- Built wind and solar forecasting models using **XGBoost and neural networks**
+- Developed **P10/P50/P90 probabilistic forecasts**
+- Backtested static and ML-driven **Day-Ahead bidding strategies**
+- Analysed imbalance exposure, revenue, VaR, Expected Shortfall and drawdown
+- Evaluated ML decisions using **economic regret and SHAP explainability**
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/F-karama/renewable-energy-trading)
+[![Live Dashboard](https://img.shields.io/badge/Streamlit-Live_Dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://renewable-energy-trading.streamlit.app/)
+---
+
+## 🎯 Current Focus
+
+⚡ Energy & Commodity Markets : power, gas, renewable generation and trading analytics  
+📊 Market Risk : VaR, Expected Shortfall, stress testing and volatility modelling  
+📈 Quantitative Finance : derivatives pricing, Monte Carlo and hedging  
+🤖 Data Science : machine learning, time series and explainable AI  
 ---
 
 ## 🌐 Connect with me:
@@ -27,7 +50,7 @@ I thrive on building **scalable ML systems** and exploring how **AI can drive im
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Technical Toolkit
 
 ### Languages & Tools
 <p align="left">
