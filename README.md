@@ -47,7 +47,6 @@ End-to-end quantitative power-trading project built on 58,000+ half-hourly obser
 ### 📊 Quantitative & Data
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,r,postgres" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" alt="Power BI" />
 </p>
 
 **Python · R · SQL · VBA · Power BI**
